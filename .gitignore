@@ -1,0 +1,6 @@
+sandbox/
+channels/
+direct_messages/
+private_channels/
+metadata.json
+token.txt
